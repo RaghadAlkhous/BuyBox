@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "884844261049",
+    "project_id": "programminglanguages-803a8",
+    "storage_bucket": "programminglanguages-803a8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884844261049:android:1132f906392fe488b43568",
+        "android_client_info": {
+          "package_name": "com.programmin.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXsklpl6ChplGMlPmUwCOXwAUKxB553LY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
