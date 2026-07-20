@@ -12,7 +12,7 @@ A modern multi-vendor e-commerce platform built with Laravel.
   <img src="https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql" alt="MySQL">
   <img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase" alt="Firebase">
 </p>
----
+
 
 # About
 
