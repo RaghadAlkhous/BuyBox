@@ -11,7 +11,6 @@ A modern multi-vendor e-commerce platform built with Laravel.
   <img src="https://img.shields.io/badge/PHP-8.2-blue?style=for-the-badge&logo=php" alt="PHP">
   <img src="https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql" alt="MySQL">
   <img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase" alt="Firebase">
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
 </p>
 
 ---
@@ -191,20 +190,3 @@ Run the server
 ```bash
 php artisan serve
 ```
-
----
-
-# License
-
-This project is licensed under the MIT License.
-
----
-
-# Author
-
-**Raghad Mazen Alkhous**
-
-Artificial Intelligence Engineering Student
-
-GitHub:
-https://github.com/RaghadAlkhous
