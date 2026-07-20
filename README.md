@@ -1,18 +1,17 @@
-# BuyBox
-
-
+<h1 align="center">
+BuyBox
+</h1>
 <p align="center">
 A modern multi-vendor e-commerce platform built with Laravel.
 </p>
 
+ 
 <p align="center">
-
-![Laravel](https://img.shields.io/badge/Laravel-11-red?style=for-the-badge&logo=laravel)
-![PHP](https://img.shields.io/badge/PHP-8.2-blue?style=for-the-badge&logo=php)
-![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql)
-![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-
+  <img src="https://img.shields.io/badge/Laravel-11-red?style=for-the-badge&logo=laravel" alt="Laravel">
+  <img src="https://img.shields.io/badge/PHP-8.2-blue?style=for-the-badge&logo=php" alt="PHP">
+  <img src="https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql" alt="MySQL">
+  <img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase" alt="Firebase">
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
 </p>
 
 ---
